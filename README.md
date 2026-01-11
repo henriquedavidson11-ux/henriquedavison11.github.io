@@ -26,7 +26,7 @@
       min-height: 100vh;
     }
     .hero-image  {
-       background: <divimg "Fotos/AQO0XOtpvLxFKagROPG6unsgx7givaBlxBx5Auv-75hmLq1JlcC8JZK-CvDqEivBnd9UzHlqxiCxMfpA_o4esHluDQIXaeiRsW1mm5QxtVBpaGsqafigw2Wga6soqjs-U-Iy0YE3_82WgMBtPfFXBh22pZNb4Q.jpeg"></div>
+       background: Fotos/AQO0XOtpvLxFKagROPG6unsgx7givaBlxBx5Auv-75hmLq1JlcC8JZK-CvDqEivBnd9UzHlqxiCxMfpA_o4esHluDQIXaeiRsW1mm5QxtVBpaGsqafigw2Wga6soqjs-U-Iy0YE3_82WgMBtPfFXBh22pZNb4Q.
     }
     .hero-content {
       padding: 5rem;
