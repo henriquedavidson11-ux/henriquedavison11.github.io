@@ -26,8 +26,7 @@
       min-height: 100vh;
     }
     .hero-image  {
-           background-image: url("../images/your-background-image.jpg")
-         
+           background-image: url("../images/your-background-image.jpg")    
     }
     .hero-content {
       padding: 5rem;
