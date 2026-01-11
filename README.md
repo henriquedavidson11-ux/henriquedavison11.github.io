@@ -1,6 +1,5 @@
 # henriquedavison11.github.io
-TEste
-<!DOCTYPE html>
+
 <html lang="pt-BR">
 <head>
   <meta charset="UTF-8" />
@@ -27,7 +26,7 @@ TEste
       min-height: 100vh;
     }
     .hero-image {
-      background: url("AQO0XOtpvLxFKagROPG6unsgx7givaBlxBx5Auv-75hmLq1JlcC8JZK-CvDqEivBnd9UzHlqxiCxMfpA_o4esHluDQIXaeiRsW1mm5QxtVBpaGsqafigw2Wga6soqjs-U-Iy0YE3_82WgMBtPfFXBh22pZNb4Q.jpeg") center/cover no-repeat;
+      background: "Fotos/AQO0XOtpvLxFKagROPG6unsgx7givaBlxBx5Auv-75hmLq1JlcC8JZK-CvDqEivBnd9UzHlqxiCxMfpA_o4esHluDQIXaeiRsW1mm5QxtVBpaGsqafigw2Wga6soqjs-U-Iy0YE3_82WgMBtPfFXBh22pZNb4Q.jpeg"
     }
     .hero-content {
       padding: 5rem;
