@@ -26,7 +26,8 @@
       min-height: 100vh;
     }
     .hero-image  {
-        background: <div "Fotos/modelo_feminina_baixinha_cabelos_cacheados_pretos_com.jpeg"
+        background: <section><h2>Galeria</h2>
+  <div class="grid"> <div "Fotos/modelo_feminina_baixinha_cabelos_cacheados_pretos_com.jpeg"
     }
     .hero-content {
       padding: 5rem;
